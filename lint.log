@@ -1,0 +1,3 @@
+$ runkit lint --fix
+Found 0 warnings and 0 errors.
+Finished in 333ms on 68 files with 152 rules using 2 threads.

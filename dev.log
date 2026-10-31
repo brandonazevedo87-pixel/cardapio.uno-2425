@@ -1,0 +1,20 @@
+$ cd packages/web && bunx vite
+(node:4135) [DEP0205] DeprecationWarning: `module.register()` is deprecated. Use `module.registerHooks()` instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+
+  VITE v7.3.2  ready in 867 ms
+
+  ➜  Local:   http://localhost:4200/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+[2m2026-10-30T07:06:36.348Z[0m [31mERROR[0m [1m[Better Auth]:[0m Invalid origin: https://4200-ixakj05smw5dvf6qlcm1z.e2b.app
+[2m2026-10-30T07:06:44.431Z[0m [31mERROR[0m [1m[Better Auth]:[0m Invalid origin: https://4200-ixakj05smw5dvf6qlcm1z.e2b.app
+[2m2026-10-30T07:07:02.720Z[0m [31mERROR[0m [1m[Better Auth]:[0m Invalid origin: https://4200-ixakj05smw5dvf6qlcm1z.e2b.app
+[2m2026-10-30T07:07:18.889Z[0m [31mERROR[0m [1m[Better Auth]:[0m Invalid origin: https://4200-ixakj05smw5dvf6qlcm1z.e2b.app
+[2m2026-10-30T10:05:52.564Z[0m [31mERROR[0m [1m[Better Auth]:[0m Invalid origin: https://4200-ixakj05smw5dvf6qlcm1z.e2b.app
+2:16:25 PM [vite] (client) hmr update /src/web/styles.css
+2:16:26 PM [vite] (ssr) page reload src/api/auth.ts
+2:16:26 PM [vite] (client) hmr update /src/web/app.tsx, /src/web/styles.css
+2:16:49 PM [vite] (client) hmr update /src/web/styles.css, /src/web/pages/login.tsx
+[2m2026-10-31T14:20:27.290Z[0m [33mWARN[0m [1m[Better Auth]:[0m Invalid password
+[2m2026-10-31T16:36:10.949Z[0m [31mERROR[0m [1m[Better Auth]:[0m Invalid origin: https://4200-ir922c5h9u89jtt1ip722.e2b.app
